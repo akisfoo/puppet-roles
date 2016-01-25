@@ -1,4 +1,4 @@
 class roles::monitoring {
   include profiles::base
-  include profiles::graphite
+  #  include profiles::graphite
 }
